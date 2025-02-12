@@ -1,5 +1,6 @@
 {
   "routes": {
-    "/LuuVan": {}
+    "/LuuVan": {},
+    "/LuuVan/gia-pha": {}
   }
 }
